@@ -12,12 +12,22 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark Mode (default) */
+.dark body {
   background: #0f0e17;
   color: #fffffe;
 }
 
-::-webkit-scrollbar {
-  width: 6px;
+/* Light Mode */
+body {
+  background: #f8f7ff;
+  color: #1a1a2e;
 }
-::-webkit-scrollbar-track { background: #1a1a2e; }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #e8e8f0; }
 ::-webkit-scrollbar-thumb { background: #6C63FF; border-radius: 3px; }
+.dark ::-webkit-scrollbar-track { background: #1a1a2e; }
