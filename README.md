@@ -71,9 +71,7 @@ npm install
 
 # Create .env file
 VITE_API_URL=https://habitflow-backend-gqzx.onrender.com/api
-VITE_SUPABASE_URL=https://rmqcvkgvzhpladfeqrzs.supabase.col
-VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJtcWN2a2d2emhwbGFkZmVxcnpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyOTM3OTksImV4cCI6MjA4Nzg2OTc5OX0.9hrOLnlSUqGii4mX8LEOFDbsxSD8wgn784F4PZjw3_0
-
+etc
 # Run the app
 npm run dev
 
