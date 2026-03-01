@@ -76,3 +76,16 @@ VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsI
 
 # Run the app
 npm run dev
+
+🔗 Important Links
+🌐 Live Site: https://habitflowapplication.netlify.app
+⚙️ Backend Repo: https://github.com/chash-code/habitflow-backend
+🔌 Backend API: https://habitflow-backend-gqzx.onrender.com
+🖥️ Screenshots
+[Added along in the live demo ]
+🔑 Login Credentials (Demo)
+Email: demo@habitflow.com
+Password: demo123456
+👨‍💻 student 
+chash
+Full Stack Developer 
